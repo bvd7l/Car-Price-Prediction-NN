@@ -1,0 +1,172 @@
+ID;Name;Location;Year;Kilometers_Driven;Fuel_Type;Transmission;Owner_Type;Mileage;Engine;Power;Seats
+134;Mercedes-Benz SLC 43 AMG;Kolkata;2017;13372;Petrol;Automatic;First;19.0 kmpl;2996 CC;362.07 bhp;2.0
+168;BMW X5 xDrive 30d;Mumbai;2015;41000;Diesel;Automatic;First;15.3 kmpl;2993 CC;258 bhp;5.0
+172;Mercedes-Benz GLC 220;Bangalore;2016;44414;Diesel;Automatic;First;17.9 kmpl;2143 CC;170 bhp;5.0
+191;Land Rover Range Rover 2.2L Dynamic;Coimbatore;2018;36091;Diesel;Automatic;First;12.7 kmpl;2179 CC;187.7 bhp;5.0
+216;Audi A8 L 3.0 TDI quattro;Delhi;2012;56000;Diesel;Automatic;First;11.8 kmpl;2967 CC;246.7 bhp;5.0
+264;Mercedes-Benz GLE 350d;Coimbatore;2017;29819;Diesel;Automatic;First;11.57 kmpl;2987 CC;254.79 bhp;5.0
+271;BMW X3 xDrive30d M Sport;Coimbatore;2017;51982;Diesel;Automatic;First;16.55 kmpl;2993 CC;258 bhp;5.0
+282;Audi Q7 3.0 TDI Quattro Technology;Kochi;2018;11287;Diesel;Automatic;First;12.07 kmpl;2967 CC;241.4 bhp;7.0
+310;Mercedes-Benz GLE 250d;Hyderabad;2017;29000;Diesel;Automatic;First;17.9 kmpl;2143 CC;201.15 bhp;5.0
+311;Land Rover Range Rover HSE Dynamic;Delhi;2017;44000;Diesel;Automatic;First;12.7 kmpl;2179 CC;187.7 bhp;5.0
+326;BMW 6 Series 640d Gran Coupe;Mumbai;2011;30000;Diesel;Automatic;First;9.52 kmpl;2993 CC;313 bhp;4.0
+327;Audi Q7 45 TDI Quattro Technology;Coimbatore;2017;97430;Diesel;Automatic;First;14.75 kmpl;2967 CC;245 bhp;7.0
+355;Jaguar XF 2.0 Diesel Portfolio;Hyderabad;2017;21000;Diesel;Automatic;First;19.33 kmpl;1999 CC;177 bhp;5.0
+392;Mercedes-Benz S Class 2005 2013 S 350 CDI;Coimbatore;2017;56451;Diesel;Automatic;First;13.5 kmpl;2987 CC;282 bhp;5.0
+404;Land Rover Range Rover 2.2L Prestige;Coimbatore;2017;34990;Diesel;Automatic;First;12.7 kmpl;2179 CC;187.7 bhp;5.0
+418;Mercedes-Benz GLC 43 AMG Coupe;Coimbatore;2018;22397;Petrol;Automatic;First;11.5 kmpl;2996 CC;367 bhp;5.0
+459;Audi Q7 4.2 TDI Quattro Technology;Coimbatore;2016;51002;Diesel;Automatic;First;11.33 kmpl;4134 CC;335.2 bhp;7.0
+473;Mercedes-Benz E-Class E 220 d;Kochi;2018;26405;Petrol;Automatic;First;12.6 kmpl;1950 CC;191.34 bhp;5.0
+489;Mercedes-Benz GLS 350d 4MATIC;Pune;2017;129000;Diesel;Automatic;First;11.0 kmpl;2987 CC;258 bhp;7.0
+521;Land Rover Range Rover HSE Dynamic;Coimbatore;2017;49275;Diesel;Automatic;First;12.7 kmpl;2179 CC;187.7 bhp;5.0
+593;BMW X5 2014-2019 xDrive 30d Design Pure Experience 7 Seater;Mumbai;2014;19000;Diesel;Automatic;First;15.97 kmpl;2993 CC;258 bhp;7.0
+598;Jaguar XF 2.2 Litre Executive;Delhi;2016;10000;Diesel;Automatic;First;16.36 kmpl;2179 CC;187.7 bhp;5.0
+603;Mercedes-Benz GLC 220d 4MATIC Style;Mumbai;2018;10003;Diesel;Automatic;First;17.9 kmpl;2143 CC;170 bhp;5.0
+608;BMW 5 Series 2013-2017 530d M Sport;Coimbatore;2016;20967;Diesel;Automatic;First;14.69 kmpl;2993 CC;258 bhp;5.0
+655;Jaguar XJ 2.0L Portfolio;Mumbai;2017;10501;Petrol;Automatic;First;9.43 kmpl;1999 CC;237.4 bhp;5.0
+693;Mercedes-Benz SLK-Class SLK 350;Coimbatore;2016;22732;Petrol;Automatic;First;18.1 kmpl;3498 CC;306 bhp;2.0
+712;BMW X5 xDrive 30d Design Pure Experience 5 Seater;Hyderabad;2015;69000;Diesel;Automatic;First;15.97 kmpl;2993 CC;258 bhp;5.0
+719;Audi Q7 3.0 TDI Quattro Premium Plus;Coimbatore;2015;46983;Diesel;Automatic;Second;12.07 kmpl;2967 CC;241.4 bhp;7.0
+798;Mercedes-Benz SLK-Class SLK 350;Bangalore;2015;10000;Petrol;Automatic;First;18.1 kmpl;3498 CC;306 bhp;2.0
+802;Mercedes-Benz GLE 250d;Mumbai;2016;21000;Diesel;Automatic;First;17.9 kmpl;2143 CC;201.15 bhp;5.0
+842;BMW X5 2014-2019 xDrive 30d Design Pure Experience 7 Seater;Mumbai;2014;47000;Diesel;Automatic;First;15.97 kmpl;2993 CC;258 bhp;7.0
+866;Mercedes-Benz E-Class Facelift;Coimbatore;2018;56652;Diesel;Automatic;First;13.0 kmpl;2987 CC;258 bhp;5.0
+913;Audi Q5 30 TDI quattro Premium;Coimbatore;2017;40318;Diesel;Automatic;First;14.16 kmpl;1968 CC;174.3 bhp;5.0
+918;BMW X5 2014-2019 xDrive 30d Design Pure Experience 7 Seater;Hyderabad;2016;76000;Diesel;Automatic;First;15.97 kmpl;2993 CC;258 bhp;7.0
+941;Land Rover Range Rover Evoque 2.0 TD4 HSE Dynamic;Kochi;2018;31427;Diesel;Automatic;First;15.68 kmpl;1999 CC;177 bhp;5.0
+1038;Land Rover Range Rover TDV8 (Diesel);Bangalore;2011;55000;Diesel;Automatic;First;10.2 kmpl;4367 CC;308 bhp;7.0
+1078;Porsche Boxster S tiptronic;Kolkata;2015;10512;Petrol;Automatic;First;8.6 kmpl;2706 CC;265 bhp;2.0
+1093;Audi Q7 4.2 TDI Quattro Technology;Bangalore;2014;50000;Diesel;Automatic;First;11.33 kmpl;4134 CC;335.2 bhp;7.0
+1113;Mercedes-Benz E-Class E 220 d;Kochi;2018;20446;Petrol;Automatic;First;12.6 kmpl;1950 CC;191.34 bhp;5.0
+1138;BMW 5 Series 2013-2017 530d M Sport;Bangalore;2015;16900;Diesel;Automatic;First;14.69 kmpl;2993 CC;258 bhp;5.0
+1194;Mercedes-Benz E-Class 2015-2017 E350 CDI Avantgrade;Mumbai;2017;15000;Diesel;Automatic;First;13.0 kmpl;2987 CC;265 bhp;5.0
+1246;Audi Q5 3.0 TDI Quattro;Coimbatore;2018;32496;Diesel;Automatic;First;13.22 kmpl;2967 CC;241.4 bhp;5.0
+1308;Mercedes-Benz M-Class ML 350 4Matic;Bangalore;2014;33000;Diesel;Automatic;Second;0.0 kmpl;2987 CC;165 bhp;5.0
+1336;Audi Q7 45 TDI Quattro Technology;Mumbai;2016;20002;Diesel;Automatic;First;14.75 kmpl;2967 CC;245 bhp;7.0
+1352;Land Rover Range Rover 3.6 TDV8 Vogue SE Diesel;Bangalore;2012;66538;Diesel;Automatic;First;10.2 kmpl;4367 CC;308 bhp;7.0
+1379;Mercedes-Benz E-Class 2015-2017 E350 Edition E;Jaipur;2015;41493;Diesel;Automatic;First;13.0 kmpl;2987 CC;265 bhp;5.0
+1386;BMW 5 Series 520d Sport Line;Kochi;2019;18373;Diesel;Automatic;First;22.48 kmpl;1995 CC;187.74 bhp;5.0
+1397;BMW X5 2014-2019 xDrive 30d Design Pure Experience 7 Seater;Kochi;2016;35659;Diesel;Automatic;First;15.97 kmpl;2993 CC;258 bhp;7.0
+1460;Land Rover Range Rover Sport 2005 2012 Sport;Coimbatore;2008;69078;Petrol;Manual;First;0.0 kmpl;;;
+1496;Jaguar XJ 3.0L Portfolio LWB;Kochi;2016;17652;Diesel;Automatic;First;12.9 kmpl;2993 CC;270.88 bhp;5.0
+1505;Land Rover Range Rover Sport SE;Kochi;2019;26013;Diesel;Automatic;First;12.65 kmpl;2993 CC;255 bhp;5.0
+1537;Audi Q5 2008-2012 3.0 TDI;Chennai;2014;25000;Diesel;Automatic;First;12.19 kmpl;2967 CC;236 bhp;5.0
+1541;Mercedes-Benz GL-Class 2007 2012 350 CDI Luxury;Bangalore;2014;52000;Diesel;Automatic;First;12.0 kmpl;2987 CC;224 bhp;7.0
+1562;Audi Q7 35 TDI Quattro Technology;Bangalore;2015;21000;Diesel;Automatic;First;12.07 kmpl;2967 CC;241.4 bhp;7.0
+1568;Land Rover Discovery Sport TD4 HSE 7S;Mumbai;2017;40000;Diesel;Automatic;First;12.81 kmpl;1999 CC;148.31 bhp;7.0
+1583;Audi Q7 45 TDI Quattro Premium Plus;Kochi;2019;6773;Diesel;Automatic;First;14.75 kmpl;2967 CC;245 bhp;7.0
+1690;Mercedes-Benz GLE 350d;Coimbatore;2018;40129;Diesel;Automatic;First;11.57 kmpl;2987 CC;254.79 bhp;5.0
+1741;BMW X6 xDrive 40d;Hyderabad;2013;58000;Diesel;Automatic;First;11.2 kmpl;2993 CC;306 bhp;4.0
+1830;Mercedes-Benz GLE 350d;Coimbatore;2017;33552;Diesel;Automatic;First;11.57 kmpl;2987 CC;254.79 bhp;5.0
+1863;BMW 5 Series 2013-2017 520d Luxury Line;Jaipur;2017;19543;Diesel;Automatic;First;18.12 kmpl;1995 CC;190 bhp;5.0
+1885;Mercedes-Benz GLS 350d Grand Edition;Delhi;2018;6000;Diesel;Automatic;First;11.0 kmpl;2987 CC;258 bhp;7.0
+1924;BMW 5 Series 2013-2017 530d M Sport;Coimbatore;2017;27313;Diesel;Automatic;First;14.69 kmpl;2993 CC;258 bhp;5.0
+1974;BMW 7 Series 740Li;Coimbatore;2018;28060;Petrol;Automatic;First;12.05 kmpl;2979 CC;320 bhp;5.0
+1984;BMW 7 Series 740Li;Bangalore;2017;17465;Petrol;Automatic;First;12.05 kmpl;2979 CC;320 bhp;5.0
+2002;Mercedes-Benz GL-Class 2007 2012 350 CDI Luxury;Pune;2014;79000;Diesel;Automatic;First;12.0 kmpl;2987 CC;224 bhp;7.0
+2056;BMW 7 Series 730Ld Eminence;Kochi;2015;29966;Diesel;Automatic;Second;16.77 kmpl;2993 CC;261.49 bhp;5.0
+2089;BMW 6 Series 640d Coupe;Mumbai;2013;30000;Diesel;Automatic;First;9.52 kmpl;2993 CC;313 bhp;4.0
+2095;Mercedes-Benz SLC 43 AMG;Coimbatore;2019;2526;Petrol;Automatic;First;19.0 kmpl;2996 CC;362.07 bhp;2.0
+2111;Mercedes-Benz GLE 250d;Kochi;2017;25601;Diesel;Automatic;First;17.9 kmpl;2143 CC;201.15 bhp;5.0
+2178;Land Rover Discovery HSE Luxury 3.0 TD6;Mumbai;2017;35000;Diesel;Automatic;First;18.0 kmpl;2993 CC;255 bhp;7.0
+2209;BMW 5 Series 2013-2017 520d M Sport;Pune;2018;7000;Diesel;Automatic;First;18.12 kmpl;1995 CC;190 bhp;5.0
+2276;BMW X6 xDrive30d;Jaipur;2013;45306;Diesel;Automatic;Second;11.2 kmpl;2993 CC;241 bhp;4.0
+2305;Porsche Cayman 2009-2012 S tiptronic;Mumbai;2011;8000;Petrol;Automatic;First;9.0 kmpl;3436 CC;null bhp;2.0
+2311;BMW X5 xDrive 30d;Coimbatore;2016;17738;Diesel;Automatic;First;15.3 kmpl;2993 CC;258 bhp;5.0
+2319;Mercedes-Benz E-Class E 350 d;Coimbatore;2019;9312;Diesel;Automatic;First;18.0 kmpl;2987 CC;258 bhp;5.0
+2328;BMW X5 xDrive 30d M Sport;Chennai;2017;6500000;Diesel;Automatic;First;15.97 kmpl;2993 CC;258 bhp;5.0
+2382;Mercedes-Benz M-Class ML 250 CDI;Coimbatore;2016;23218;Diesel;Automatic;First;15.26 kmpl;2143 CC;203.2 bhp;5.0
+2422;Jaguar XJ 3.0L Portfolio;Delhi;2016;12000;Diesel;Automatic;First;10.5 kmpl;2993 CC;271.23 bhp;4.0
+2446;Mercedes-Benz GLC 220d 4MATIC Sport;Mumbai;2017;25000;Diesel;Automatic;First;17.9 kmpl;2143 CC;170 bhp;5.0
+2509;Mercedes-Benz E-Class E 220 d;Mumbai;2018;11000;Diesel;Automatic;First;16.1 kmpl;1950 CC;194 bhp;5.0
+2515;BMW 6 Series Gran Coupe;Delhi;2013;21000;Diesel;Automatic;Second;17.54 kmpl;2993 CC;313 bhp;4.0
+2537;Audi Q7 35 TDI Quattro Technology;Coimbatore;2016;28733;Diesel;Automatic;Second;12.07 kmpl;2967 CC;241.4 bhp;7.0
+2541;Mercedes-Benz E-Class 2015-2017 E350 CDI Avantgrade;Kochi;2018;21603;Diesel;Automatic;First;13.0 kmpl;2987 CC;265 bhp;5.0
+2547;BMW X6 xDrive 40d M Sport;Chennai;2016;25000;Diesel;Automatic;First;15.87 kmpl;2993 CC;308.43 bhp;5.0
+2593;Audi Q7 35 TDI Quattro Technology;Bangalore;2015;21000;Diesel;Automatic;Second;12.07 kmpl;2967 CC;241.4 bhp;7.0
+2659;Porsche Panamera Diesel;Kolkata;2015;25100;Diesel;Automatic;First;17.85 kmpl;2967 CC;300 bhp;4.0
+2706;Porsche Panamera Diesel 250hp;Kochi;2014;60033;Diesel;Automatic;First;18.18 kmpl;2967 CC;250 bhp;4.0
+2767;Mercedes-Benz GLE 350d;Coimbatore;2018;30706;Diesel;Automatic;First;11.57 kmpl;2987 CC;254.79 bhp;5.0
+2795;BMW X5 X5 M;Pune;2015;69002;Diesel;Automatic;First;15.97 kmpl;2993 CC;258 bhp;5.0
+2808;Mercedes-Benz GLE 350d;Mumbai;2017;19863;Diesel;Automatic;First;11.57 kmpl;2987 CC;254.79 bhp;5.0
+2896;Porsche Panamera Diesel;Delhi;2013;48000;Diesel;Automatic;Second;17.85 kmpl;2967 CC;300 bhp;4.0
+2907;Jaguar XJ 3.0L Portfolio;Hyderabad;2015;26000;Diesel;Automatic;First;14.47 kmpl;2993 CC;301.73 bhp;5.0
+2924;Land Rover Range Rover HSE Dynamic;Kochi;2018;41661;Diesel;Automatic;First;12.7 kmpl;2179 CC;187.7 bhp;5.0
+2978;Porsche Panamera 2010 2013 4S;Coimbatore;2010;42400;Petrol;Automatic;Third;8.0 kmpl;4806 CC;394.3 bhp;4.0
+3014;BMW 5 Series 2013-2017 530d M Sport;Coimbatore;2016;19254;Diesel;Automatic;First;14.69 kmpl;2993 CC;258 bhp;5.0
+3043;Land Rover Discovery Sport TD4 HSE;Coimbatore;2019;25899;Diesel;Automatic;First;12.63 kmpl;2179 CC;147.5 bhp;5.0
+3051;Mercedes-Benz GL-Class 350 CDI Blue Efficiency;Delhi;2016;16000;Diesel;Automatic;First;11.3 kmpl;2987 CC;254.8 bhp;7.0
+3210;Mercedes-Benz M-Class ML 350 4Matic;Coimbatore;2016;22769;Diesel;Automatic;First;0.0 kmpl;2987 CC;165 bhp;5.0
+3242;Land Rover Range Rover Vogue SE 4.4 SDV8;Bangalore;2012;63000;Diesel;Automatic;Second;11.49 kmpl;4367 CC;335.3 bhp;5.0
+3266;Mercedes-Benz E-Class E400 Cabriolet;Kolkata;2015;7501;Petrol;Automatic;First;10.0 kmpl;2996 CC;333 bhp;4.0
+3268;Mercedes-Benz GLE 350d;Coimbatore;2018;29277;Diesel;Automatic;First;11.57 kmpl;2987 CC;254.79 bhp;5.0
+3390;BMW X5 2014-2019 xDrive 30d Design Pure Experience 7 Seater;Mumbai;2015;29500;Diesel;Automatic;First;15.97 kmpl;2993 CC;258 bhp;7.0
+3453;BMW 5 Series 2003-2012 530d;Coimbatore;2016;18090;Diesel;Automatic;First;16.2 kmpl;2993 CC;258 bhp;5.0
+3489;Porsche Panamera Diesel;Bangalore;2013;19828;Diesel;Automatic;Second;17.85 kmpl;2967 CC;300 bhp;4.0
+3523;Jaguar XJ 3.0L Premium Luxury;Hyderabad;2012;50000;Diesel;Automatic;First;12.9 kmpl;2993 CC;271.23 bhp;4.0
+3540;Land Rover Discovery Sport SD4 HSE Luxury 7S;Hyderabad;2016;62000;Diesel;Automatic;First;12.51 kmpl;2179 CC;187.7 bhp;7.0
+3705;Mercedes-Benz GLC 220d 4MATIC Style;Coimbatore;2019;29311;Diesel;Automatic;First;17.9 kmpl;2143 CC;170 bhp;5.0
+3752;Land Rover Range Rover Sport HSE;Kochi;2015;38467;Diesel;Automatic;First;12.65 kmpl;2993 CC;255 bhp;5.0
+3836;Audi A6 35 TFSI Matrix;Delhi;2018;22000;Petrol;Automatic;First;15.26 kmpl;1798 CC;187.74 bhp;5.0
+3994;Audi Q7 35 TDI Quattro Technology;Coimbatore;2016;32545;Diesel;Automatic;First;12.07 kmpl;2967 CC;241.4 bhp;7.0
+4003;Jaguar XF 2.2 Litre Luxury;Mumbai;2018;3000;Diesel;Automatic;First;16.36 kmpl;2179 CC;187.7 bhp;5.0
+4061;Audi RS5 Coupe;Mumbai;2013;23312;Petrol;Automatic;First;11.05 kmpl;2894 CC;444 bhp;4.0
+4079;Land Rover Range Rover 3.0 Diesel LWB Vogue;Hyderabad;2017;25000;Diesel;Automatic;First;13.33 kmpl;2993 CC;255 bhp;5.0
+4101;BMW X5 xDrive 30d M Sport;Chennai;2016;45000;Diesel;Automatic;First;15.97 kmpl;2993 CC;258 bhp;5.0
+4166;Mercedes-Benz GL-Class 350 CDI Blue Efficiency;Chennai;2015;45000;Diesel;Automatic;First;11.3 kmpl;2987 CC;254.8 bhp;7.0
+4185;Porsche Panamera Diesel;Kochi;2015;54996;Diesel;Automatic;First;17.85 kmpl;2967 CC;300 bhp;4.0
+4223;BMW X6 xDrive30d;Coimbatore;2014;39626;Diesel;Automatic;First;11.2 kmpl;2993 CC;241 bhp;4.0
+4345;Audi Q7 35 TDI Quattro Technology;Coimbatore;2016;45180;Diesel;Automatic;First;12.07 kmpl;2967 CC;241.4 bhp;7.0
+4360;BMW 6 Series Gran Coupe;Kochi;2018;20004;Diesel;Automatic;First;17.54 kmpl;2993 CC;313 bhp;4.0
+4377;Porsche Cayenne Diesel;Coimbatore;2015;60395;Diesel;Automatic;First;16.12 kmpl;2967 CC;245 bhp;5.0
+4387;BMW 7 Series 730Ld;Chennai;2014;35000;Diesel;Automatic;First;16.46 kmpl;2993 CC;258 bhp;5.0
+4388;Audi Q7 4.2 TDI Quattro Technology;Bangalore;2015;50000;Diesel;Automatic;First;11.33 kmpl;4134 CC;335.2 bhp;7.0
+4412;Mercedes-Benz M-Class ML 350 4Matic;Coimbatore;2016;27833;Diesel;Automatic;First;0.0 kmpl;2987 CC;165 bhp;5.0
+4441;Audi Q7 3.0 TDI Quattro Technology;Hyderabad;2014;60000;Diesel;Automatic;First;12.07 kmpl;2967 CC;241.4 bhp;7.0
+4451;Ford Mustang V8;Kochi;2018;21290;Petrol;Automatic;First;13.0 kmpl;4951 CC;395 bhp;4.0
+4502;Audi Q7 3.0 TDI Quattro Premium Plus;Hyderabad;2015;50000;Diesel;Automatic;First;12.07 kmpl;2967 CC;241.4 bhp;7.0
+4527;Mercedes-Benz GLE 350d;Chennai;2016;29000;Diesel;Automatic;First;11.57 kmpl;2987 CC;254.79 bhp;5.0
+4614;BMW X5 X5 M;Chennai;2017;15000;Diesel;Automatic;First;15.97 kmpl;2993 CC;258 bhp;5.0
+4657;Mercedes-Benz GL-Class 2007 2012 350 CDI Luxury;Delhi;2015;55000;Diesel;Automatic;First;12.0 kmpl;2987 CC;224 bhp;7.0
+4691;Mercedes-Benz SLK-Class 55 AMG;Bangalore;2014;3000;Petrol;Automatic;Second;12.0 kmpl;5461 CC;421 bhp;2.0
+4704;Mercedes-Benz M-Class ML 350 4Matic;Bangalore;2015;20000;Diesel;Automatic;First;0.0 kmpl;2987 CC;165 bhp;5.0
+4708;BMW X3 xDrive30d M Sport;Bangalore;2016;49000;Diesel;Automatic;First;16.55 kmpl;2993 CC;258 bhp;5.0
+4755;Land Rover Range Rover Evoque 2.0 TD4 HSE Dynamic;Hyderabad;2016;52000;Diesel;Automatic;First;15.68 kmpl;1999 CC;177 bhp;5.0
+4821;BMW 6 Series 630i Coupe;Mumbai;2011;5900;Petrol;Automatic;First;7.94 kmpl;4395 CC;450 bhp;4.0
+4858;Audi A4 35 TDI Technology;Hyderabad;2017;14000;Diesel;Automatic;First;18.25 kmpl;1968 CC;187.74 bhp;5.0
+4869;Land Rover Range Rover 3.6 TDV8 Vogue SE;Coimbatore;2012;84384;Diesel;Automatic;First;10.2 kmpl;4367 CC;308 bhp;7.0
+4889;Mercedes-Benz M-Class ML 250 CDI;Hyderabad;2014;50000;Diesel;Automatic;First;15.26 kmpl;2143 CC;203.2 bhp;5.0
+4893;BMW Z4 2009-2013 Roadster 2.5i;Kochi;2018;9952;Petrol;Automatic;First;10.37 kmpl;2979 CC;306 bhp;2.0
+4914;Mercedes-Benz GLC 220d 4MATIC Style;Mumbai;2017;24000;Diesel;Automatic;First;17.9 kmpl;2143 CC;170 bhp;5.0
+4938;Audi Q7 4.2 TDI Quattro Technology;Coimbatore;2015;56238;Diesel;Automatic;First;11.33 kmpl;4134 CC;335.2 bhp;7.0
+4988;BMW 5 Series 530d M Sport;Hyderabad;2016;27000;Diesel;Automatic;First;18.59 kmpl;2993 CC;265 bhp;5.0
+4993;BMW X3 xDrive20d;Bangalore;2016;45165;Diesel;Automatic;First;16.09 kmpl;1995 CC;184 bhp;5.0
+5009;Audi Q7 45 TDI Quattro Technology;Pune;2017;59500;Diesel;Automatic;First;14.75 kmpl;2967 CC;245 bhp;7.0
+5038;Land Rover Discovery Sport TD4 HSE 7S;Coimbatore;2019;24013;Diesel;Automatic;First;12.81 kmpl;1999 CC;148.31 bhp;7.0
+5067;Land Rover Discovery Sport SD4 HSE Luxury 7S;Coimbatore;2019;17201;Diesel;Automatic;First;12.51 kmpl;2179 CC;187.7 bhp;7.0
+5088;Jaguar XJ 5.0 L V8 Supercharged;Coimbatore;2011;43686;Petrol;Automatic;First;10.5 kmpl;5000 CC;503 bhp;4.0
+5094;Mercedes-Benz GLC 220d Celebration Edition;Kochi;2017;26192;Diesel;Automatic;First;17.9 kmpl;2143 CC;168 bhp;5.0
+5107;Mercedes-Benz GLE 250d;Hyderabad;2016;50000;Diesel;Automatic;First;17.9 kmpl;2143 CC;201.15 bhp;5.0
+5118;Mercedes-Benz GLE 350d;Bangalore;2016;28541;Diesel;Automatic;First;11.57 kmpl;2987 CC;254.79 bhp;5.0
+5302;Audi Q7 3.0 TDI Quattro Premium Plus;Coimbatore;2016;31075;Diesel;Automatic;Second;12.07 kmpl;2967 CC;241.4 bhp;7.0
+5341;Porsche Cayenne S Diesel;Coimbatore;2016;65003;Diesel;Automatic;First;13.6 kmpl;4134 CC;382 bhp;5.0
+5416;Land Rover Range Rover Vogue SE 4.4 SDV8;Coimbatore;2013;75995;Diesel;Automatic;Second;11.49 kmpl;4367 CC;335.3 bhp;5.0
+5477;Land Rover Range Rover HSE Dynamic;Kochi;2018;52827;Diesel;Automatic;First;12.7 kmpl;2179 CC;187.7 bhp;5.0
+5512;Porsche Cayenne 2009-2014 Diesel;Kochi;2015;47877;Diesel;Automatic;First;15.15 kmpl;2967 CC;240 bhp;5.0
+5516;BMW X3 xDrive 20d Luxury Line;Mumbai;2018;1400;Diesel;Automatic;First;18.56 kmpl;1995 CC;190 bhp;5.0
+5521;Bentley Continental Flying Spur;Hyderabad;2006;48000;Petrol;Automatic;First;8.6 kmpl;5998 CC;552 bhp;4.0
+5535;BMW X6 xDrive 40d M Sport;Ahmedabad;2015;97003;Diesel;Automatic;First;15.87 kmpl;2993 CC;308.43 bhp;5.0
+5545;Land Rover Range Rover Sport SE;Delhi;2014;47000;Diesel;Automatic;Second;12.65 kmpl;2993 CC;255 bhp;5.0
+5603;Porsche Panamera 2010 2013 Diesel;Delhi;2013;36400;Diesel;Automatic;First;7.5 kmpl;4806 CC;394.3 bhp;4.0
+5618;BMW 5 Series 520d Sport Line;Delhi;2017;16485;Diesel;Automatic;First;22.48 kmpl;1995 CC;187.74 bhp;5.0
+5702;BMW 7 Series 730Ld;Chennai;2013;38000;Diesel;Automatic;First;16.46 kmpl;2993 CC;258 bhp;5.0
+5740;BMW X5 xDrive 30d M Sport;Chennai;2017;21000;Diesel;Automatic;Second;15.97 kmpl;2993 CC;258 bhp;5.0
+5761;Audi Q7 3.0 TDI Quattro Premium Plus;Coimbatore;2015;55662;Diesel;Automatic;First;12.07 kmpl;2967 CC;241.4 bhp;7.0
+5775;BMW 6 Series Gran Coupe;Mumbai;2013;30000;Diesel;Automatic;First;17.54 kmpl;2993 CC;313 bhp;4.0
+5781;Lamborghini Gallardo Coupe;Delhi;2011;6500;Petrol;Automatic;Third;6.4 kmpl;5204 CC;560 bhp;2.0
+5863;Mercedes-Benz GL-Class 2007 2012 350 CDI Luxury;Mumbai;2015;48600;Diesel;Automatic;First;12.0 kmpl;2987 CC;224 bhp;7.0
+5900;Mercedes-Benz GLC 220;Coimbatore;2017;50794;Diesel;Automatic;First;17.9 kmpl;2143 CC;170 bhp;5.0
+5919;Jaguar F Type 5.0 V8 S;Hyderabad;2015;8000;Petrol;Automatic;First;12.5 kmpl;5000 CC;488.1 bhp;2.0
+5927;Audi Q5 3.0 TDI Quattro Technology;Coimbatore;2018;29091;Diesel;Automatic;First;13.22 kmpl;2967 CC;241.4 bhp;5.0
+5946;BMW 5 Series 2013-2017 530d M Sport;Bangalore;2016;16000;Diesel;Automatic;First;14.69 kmpl;2993 CC;258 bhp;5.0
+6008;Porsche Panamera Diesel;Hyderabad;2013;40000;Diesel;Automatic;Second;17.85 kmpl;2967 CC;300 bhp;4.0
